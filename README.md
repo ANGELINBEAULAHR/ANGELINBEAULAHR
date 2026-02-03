@@ -11,7 +11,7 @@
 
 ### 🌙 About Me
 
-  🌱 Began my journey with **Software Development**
+  <h3>🌱 Began my journey with **Software Development** </h3>
   ☕ Strong foundation in **Java & Object-Oriented Programming**
   🐍 Learning **Python** with focus on **AI fundamentals**
   🌐 Hands-on experience with **Web Development**
