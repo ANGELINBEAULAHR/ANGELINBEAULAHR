@@ -1,3 +1,19 @@
+👋 Hello, I’m Angelin Beaulah  
+
+🎓 Computer Science Engineering Undergraduate  
+💻 Aspiring Software Engineer | Java & AI Enthusiast  
+
+I am a motivated Computer Science student with a strong interest in software development and emerging technologies. I enjoy building practical applications, writing clean and efficient code, and continuously improving my technical skills.  
+
+My primary areas of focus include Java programming, Python, data structures, and web development, along with foundational concepts in Artificial Intelligence. I believe in learning through hands-on projects and consistent practice.  
+
+🚀 Currently working on:
+- Java & Data Structures  
+- Python and AI fundamentals  
+- Full-stack web projects  
+- Strengthening problem-solving skills  
+
+📫 Open to learning, collaboration, and growth.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ANGELIN BEAULAH R) 
