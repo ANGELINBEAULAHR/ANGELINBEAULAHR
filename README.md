@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=angelin-beaulah&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelin-beaulah&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ANGELINBEAULAHR&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ANGELINBEAULAHR&theme=tokyonight" />
 </p>
 
 <p align="center">
