@@ -29,7 +29,6 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -38,9 +37,9 @@
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelin-beaulah&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANGELINBEAULAHR&layout=compact&theme=tokyonight" />
 </p>
----
+
 
 ## ⚙️ Tech Stack
 
