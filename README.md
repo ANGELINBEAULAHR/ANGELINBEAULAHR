@@ -11,12 +11,12 @@
 
 ### 🌙 About Me
 
-  <h3>🌱 Began my journey with **Software Development** </h3>
-  ☕ Strong foundation in **Java & Object-Oriented Programming**
-  🐍 Learning **Python** with focus on **AI fundamentals**
-  🌐 Hands-on experience with **Web Development**
-  🧠 Interested in **Artificial Intelligence & Problem Solving**
-  ✨ I believe consistency beats motivation
+- 🎓 Computer Science Engineering student with a strong interest in software development  
+- ☕ Solid foundation in **Java** and **Object-Oriented Programming**  
+- 🐍 Actively learning **Python** with a focus on **AI fundamentals**  
+- 🌐 Hands-on experience in **Web Development** and real-world projects  
+- 🧠 Passionate about **Artificial Intelligence** and **problem solving**  
+- ✨ Strong believer in consistency, discipline, and continuous learning  
 
 📌 *Ask me about Java, Python, Web Development, and AI basics*
 
@@ -33,12 +33,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -48,19 +48,19 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Web-Development-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Basics-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Development-0A1AFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Basics-6A0DAD?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌟 Random Dev Quote
+## 🌟 Quote I Believe In
 
 > *“First, solve the problem. Then, write the code.”*
 
 ---
 
-## 🤝 Follow Me On
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angelin-beaulah">
@@ -69,3 +69,5 @@
 </p>
 
 ---
+
+⭐ *Thanks for visiting my GitHub profile!*
