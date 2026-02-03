@@ -7,7 +7,7 @@
 
 ---
 
-## 🙏 Namaste 🙏 I'm Angelin Beaulah  
+## 🙏 I'm Angelin Beaulah  
 
 ### 🌙 About Me
 
