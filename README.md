@@ -11,12 +11,12 @@
 
 ### 🌙 About Me
 
-🌱 Began my journey with **Software Development**
-- ☕ Strong foundation in **Java & Object-Oriented Programming**
-- 🐍 Learning **Python** with focus on **AI fundamentals**
-- 🌐 Hands-on experience with **Web Development**
-- 🧠 Interested in **Artificial Intelligence & Problem Solving**
-- ✨ I believe consistency beats motivation
+  🌱 Began my journey with **Software Development**
+  ☕ Strong foundation in **Java & Object-Oriented Programming**
+  🐍 Learning **Python** with focus on **AI fundamentals**
+  🌐 Hands-on experience with **Web Development**
+  🧠 Interested in **Artificial Intelligence & Problem Solving**
+  ✨ I believe consistency beats motivation
 
 📌 *Ask me about Java, Python, Web Development, and AI basics*
 
