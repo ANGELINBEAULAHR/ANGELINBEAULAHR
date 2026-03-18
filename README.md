@@ -44,7 +44,7 @@
 ## 📄 Resume  
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/ANGEL_UPDATED_RESUME.pdf">
+    <a[ href="https://github.com/angelinbeaulah/angelinbeaulah/blob/main/ANGEL_UPDATED_RESUME.pdf>
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge"/>
   </a>
 </p>
