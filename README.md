@@ -41,10 +41,12 @@
 
 ---
 
-## 📄 Resume (Preview)
+## 📄 Resume  
 
 <p align="center">
-  <iframe src="https://1drv.ms/b/c/d1ed10604b879f53/IQA_vBWW5mVSRY73ynWRbKhBARan07CEWM3wZxrPlhU8kgs?e=XuJ4gS" width="800" height="500"></iframe>
+  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/ANGEL_UPDATED_RESUME.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
