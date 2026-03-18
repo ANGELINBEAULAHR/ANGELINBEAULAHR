@@ -11,26 +11,24 @@
 
 ### 🌙 About Me
 
-- 🎓 Computer Science Engineering student with a strong interest in software development  
-- ☕ Solid foundation in **Java** and **Object-Oriented Programming**  
-- 🐍 Actively learning **Python** with a focus on **AI fundamentals**  
-- 🌐 Hands-on experience in **Web Development** and real-world projects  
-- 🧠 Passionate about **Artificial Intelligence** and **problem solving**  
-- ✨ Strong believer in consistency, discipline, and continuous learning  
+- 🎓 Computer Science Engineering student  
+- ☕ Strong foundation in **Java** and **Object-Oriented Programming**  
+- 🐍 Learning **Python** for **AI & Machine Learning**  
+- 🌐 Experience in **Web Development (Frontend + Basics of Backend)**  
+- 🧠 Passionate about **Artificial Intelligence & Problem Solving**  
+- 🚀 Actively preparing for **Software Engineer & AI roles**  
 
-📌 *Ask me about Java, Python, Web Development, and AI basics*
+📌 *Ask me about Java, DSA, Web Development, and AI basics*
 
 ---
 
-## 🧰 Languages & Tools I’ve Worked With
+## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
 </p>
 
 ---
-
-
 
 ## ⚙️ Tech Stack
 
@@ -43,9 +41,37 @@
 
 ---
 
-## 🌟 Quote I Believe In
+## 📊 GitHub Stats
 
-> *“First, solve the problem. Then, write the code.”*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌟 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://1drv.ms/b/c/d1ed10604b879f53/IQA_vBWW5mVSRY73ynWRbKhBARan07CEWM3wZxrPlhU8kgs?e=XuJ4gS">
+    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
@@ -56,6 +82,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
+---
+
+## 🌟 Quote I Believe In
+
+> *“First, solve the problem. Then, write the code.”*
 
 ---
 
