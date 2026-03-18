@@ -14,15 +14,15 @@
 - 🎓 Computer Science Engineering student  
 - ☕ Strong foundation in **Java** and **Object-Oriented Programming**  
 - 🐍 Learning **Python** for **AI & Machine Learning**  
-- 🌐 Experience in **Web Development (Frontend + Basics of Backend)**  
+- 🌐 Experience in **Web Development**  
 - 🧠 Passionate about **Artificial Intelligence & Problem Solving**  
-- 🚀 Actively preparing for **Software Engineer & AI roles**  
+- 🚀 Preparing for **Software Engineer & AI roles**  
 
 📌 *Ask me about Java, DSA, Web Development, and AI basics*
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Languages & Tools I’ve Worked With  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
@@ -37,30 +37,6 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Web%20Development-0A1AFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI%20Basics-6A0DAD?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight"/>
-</p>
-
----
-
-## 🌟 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
