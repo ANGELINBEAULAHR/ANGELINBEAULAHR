@@ -41,12 +41,10 @@
 
 ---
 
-## 📄 Resume
+## 📄 Resume (Preview)
 
 <p align="center">
-  <a href="https://1drv.ms/b/c/d1ed10604b879f53/IQA_vBWW5mVSRY73ynWRbKhBARan07CEWM3wZxrPlhU8kgs?e=XuJ4gS">
-    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge"/>
-  </a>
+  <iframe src="https://1drv.ms/b/c/d1ed10604b879f53/IQA_vBWW5mVSRY73ynWRbKhBARan07CEWM3wZxrPlhU8kgs?e=XuJ4gS" width="800" height="500"></iframe>
 </p>
 
 ---
